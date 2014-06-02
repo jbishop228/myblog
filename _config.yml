@@ -1,10 +1,12 @@
 # Site settings
-title: Jason Bishop
+site-title: Jason Bishop 
 email: j@jasonbishop.com
 description: "Jason Bishop is an art director, designer, illustrator and animator living in Los Angeles."
 baseurl: ""
 url: "http://jasonbishop.com"
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
+redcarpet:
+  extension: ["smart"]
 permalink: pretty
