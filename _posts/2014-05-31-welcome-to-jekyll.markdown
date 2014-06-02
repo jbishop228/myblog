@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Trying this post thing out"
+title:  "Trying these post thing's out"
 date:   2014-05-31 19:27:53
 categories: jekyll update
 ---
